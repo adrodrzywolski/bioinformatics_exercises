@@ -1,0 +1,11 @@
+reference/hg19.fa.gz filter=lfs diff=lfs merge=lfs -text
+reference/hg19_v0_dbsnp_135.b37.vcf.gz filter=lfs diff=lfs merge=lfs -text
+reference/hg19_v0_dbsnp_135.b37.vcf.gz.tbi filter=lfs diff=lfs merge=lfs -text
+reference/somatic-b37_Mutect2-WGS-panel-b37.vcf.gz filter=lfs diff=lfs merge=lfs -text
+reference/somatic-b37_Mutect2-WGS-panel-b37.vcf.gz.tbi filter=lfs diff=lfs merge=lfs -text
+2024/bioinf_adv/SRR8618990_PoG_1.fastq.gz filter=lfs diff=lfs merge=lfs -text
+2024/bioinf_adv/SRR8618990_PoG_2.fastq.gz filter=lfs diff=lfs merge=lfs -text
+2024/bioinf_adv/SRR8619228_PoG_1.fastq.gz filter=lfs diff=lfs merge=lfs -text
+2024/bioinf_adv/SRR8619228_PoG_2.fastq.gz filter=lfs diff=lfs merge=lfs -text
+2024/bioinf_adv/SRR8619240_PoG_1.fastq.gz filter=lfs diff=lfs merge=lfs -text
+2024/bioinf_adv/SRR8619240_PoG_2.fastq.gz filter=lfs diff=lfs merge=lfs -text
